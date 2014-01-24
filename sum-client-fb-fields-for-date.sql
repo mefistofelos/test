@@ -1,0 +1,1 @@
+SELECT * FROM jadensocial_crmV2.DataTwitter order by dataTwitterID desc 
