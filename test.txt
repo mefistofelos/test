@@ -1,1 +1,1 @@
-neka izmena u fajlu test.txt
+neka nova izmena u fajlu test.txt
